@@ -1,0 +1,11 @@
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\bin\Debug\CalculadoraJurosFinanceiro.exe.config
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\bin\Debug\CalculadoraJurosFinanceiro.exe
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\bin\Debug\CalculadoraJurosFinanceiro.pdb
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.csproj.AssemblyReference.cache
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.Form1.resources
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.Properties.Resources.resources
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.csproj.GenerateResource.cache
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.exe
+C:\Users\36649863858\source\repos\CalculadoraJurosFinanceiro\CalculadoraJurosFinanceiro\obj\Debug\CalculadoraJurosFinanceiro.pdb
